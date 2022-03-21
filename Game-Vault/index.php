@@ -14,9 +14,11 @@
     <link rel="stylesheet" href="CSS/cover_style.css">
     <script src="JavaScript/nav_script.js"></script>
     <script src="JavaScript/slider.js"></script>
+    <script src="JavaScript/sticky_navbar.js"></script>
 </head>
 <body>
     <?php include 'Includes/navbar.php'?>
     <?php include 'Includes/cover_image.php'?>
+    <?php include 'Includes/products.php'?>
 </body>
 </html>

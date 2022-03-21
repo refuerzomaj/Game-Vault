@@ -3,12 +3,14 @@
     padding: 0;
 }
 .nav-bar{
+    padding: 0 0 0 3%;
+    width: 100%;
     position:absolute;
     display: block;
     background-color: black;
 }
     .nav-bar a{
-        margin: 2% 4% 2% 4%;
+        margin: 2% 8.2% 2% 0;
         vertical-align: middle;
         text-decoration: none;
         font-family: 'Courier New', Courier, monospace;
@@ -24,6 +26,15 @@
         a .user_logo{
             width: 3%;
         }
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+    }
+          
+    .sticky + .content {
+        padding-top: 60px;
+    }
 
 @media only screen and (max-width: 900px){
     .nav-bar a{
@@ -35,11 +46,11 @@
     .nav-bar a{
         display: none;
         font-size: large;
-        margin: 0;
+        margin: 0 0 5% 0;
         padding-bottom: 3%;
     }
     .nav-bar a.icon {
-        margin: 10% 0 0 10%;
+        margin: 5% 0 0 5%;
         display: block;
         background-color: black;
     }
