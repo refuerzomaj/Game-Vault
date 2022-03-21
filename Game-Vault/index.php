@@ -11,8 +11,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="CSS/nav_style.css">
+    <script src="JavaScript/nav_script.js"></script>
 </head>
 <body>
-    <?php include 'Pages/navbar.php'?>
+    <?php include 'Includes/navbar.php'?>
 </body>
 </html>
