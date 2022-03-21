@@ -7,7 +7,7 @@
         <a href="about.php">About</a>
         <a href="contact.php">Contact</a>
         <a href="login.php"><img class="user_logo" src="Images/user.png" alt="user_logo"></a>
-        <a href="#icon" class="icon" onclick="myFunction()">
+        <a href="#icon" class="icon" onclick="navFunction() ">
             <i class="fa fa-bars"></i>
         </a>
     </div>
