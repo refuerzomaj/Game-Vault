@@ -12,11 +12,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="CSS/nav_style.css">
     <link rel="stylesheet" href="CSS/cover_style.css">
+    <link rel="stylesheet" href="CSS/product_style.css">
+    <link rel="stylesheet" href="CSS/collection_style.css">
 </head>
 <body>
     <?php include 'Includes/navbar.php'?>
     <?php include 'Includes/cover_image.php'?>
     <?php include 'Includes/products.php'?>
+    <?php include 'Includes/collection.php'?>
     <script src="JavaScript/nav_script.js"></script>
 </body>
 </html>

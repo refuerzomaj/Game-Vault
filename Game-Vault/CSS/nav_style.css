@@ -30,6 +30,9 @@
         top: 0;
         width: 100%;
     }
+    .sticky_bg{
+        background-color: black;
+    }
        
 
 @media only screen and (max-width: 900px){
@@ -39,9 +42,6 @@
     }
 }
 @media only screen and (max-width: 600px){
-    .nav-bar{
-        background-color: ;
-    }
     .nav-bar a{
         display: none;
         font-size: large;

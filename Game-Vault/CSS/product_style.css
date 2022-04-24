@@ -1,0 +1,26 @@
+.products{
+    margin: 5% 0 0 0;
+}
+    .product_title{
+        text-align: center;
+        margin: 0 0 5% 0;
+    }
+    .product_title, .item_np{
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .item{
+        margin: 2%;
+        padding: 1%;
+        display: inline-block;
+        width: 27%;
+        text-align: center;
+    }
+        .item img{
+            width: 60%;
+        }
+        .item_np{
+            display:block;
+        }
+            .item_np h3{
+                font-weight: 900;
+            } 
