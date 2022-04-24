@@ -6,17 +6,25 @@
         <h2>Gaming Laptops</h2>
     </div>
     <div class="item">
-        <img src="Images/asus.jpg" alt="asus_image">
+        <center><img src="Images/asus.jpg" alt="asus_image"></center>
         <section class="item_np">
             <h3>ASUS TUF DASH F15 FX516PM-HN097T ECLIPSE GRAY</h3>
             <h4>₱56,995</h4>
+            <label class="quan">Quantity</label>
+            <input type="number" name="quantity" id="asus" value="0" min="0" max="9"/>
+            <button>Add to Cart</button>
+            <p class="features"><b>Features</b><br/>Processor: Intel® Core™ i5 11300H<br/>Memory: 8 GBDDR4<br/>Hard Drive: 512GB SSD<br/>Optical Drive: No<br/>Graphics Card: 6GB RTX3060<br/>Display: 15.6" FHD IPS 144Hz<br/>Operating System: Windows 10</p>
         </section>
     </div>
     <div class="item">
-        <img src="Images/dell.jpg" alt="dell_image">
+        <center><img src="Images/dell.jpg" alt="dell_image"></center>
         <section class="item_np">
-            <h3>DELL G5 15 5505 R5 <br>SUPERNOVA</h3>
+            <h3>DELL G5 15 5505 R5 <br>SUPERNOVA SILVER</h3>
             <h4>₱58,900</h4>
+            <label class="quan">Quantity</label>
+            <input type="number" name="quantity" id="dell" value="0" min="0" max="9"/>
+            <button>Add to Cart</button>
+            <p class="features"><b>Features</b><br/>Processor: AMD Ryzen 5-4600H<br/>Memory: 8GB<br/>Hard Drive: 512GB SSD<br/>Display Size: 15.6-inch<br/>Resolution: Full HD<br/>Graphic Card: AMD Radeon EX 5600M 6GB</p>
         </section>
     </div>
     <div class="item">
