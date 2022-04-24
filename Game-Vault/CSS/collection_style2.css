@@ -1,3 +1,10 @@
+.title{
+    padding:13% 0 3% 0;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
 .category,.category1,.category2,.category3,.category4,.category5,.category6{
     margin: 1%;
     vertical-align: top;

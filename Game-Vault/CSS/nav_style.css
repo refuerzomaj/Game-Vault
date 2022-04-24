@@ -7,6 +7,8 @@
     width: 100%;
     position:absolute;
     display: block;
+    z-index: 500;
+    background-color: black;
 }
     .nav-bar a{
         margin: 2% 8.2% 2% 0;
@@ -28,10 +30,6 @@
     .sticky {
         position: fixed;
         top: 0;
-        width: 100%;
-    }
-    .sticky_bg{
-        background-color: black;
     }
        
 

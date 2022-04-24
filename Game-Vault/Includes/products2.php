@@ -1,6 +1,9 @@
 <div class="products">
     <div class="product_title">
-        <h2>All Products</h2>
+        <h1>All Products</h1>
+    </div>
+    <div class="product_title">
+        <h2>Gaming Laptops</h2>
     </div>
     <div class="item">
         <img src="Images/asus.jpg" alt="asus_image">
@@ -12,7 +15,7 @@
     <div class="item">
         <img src="Images/dell.jpg" alt="dell_image">
         <section class="item_np">
-            <h3>DELL<br>G5 15 5505 R5 <br>SUPERNOVA</h3>
+            <h3>DELL G5 15 5505 R5 <br>SUPERNOVA</h3>
             <h4>₱58,900</h4>
         </section>
     </div>
@@ -22,6 +25,9 @@
             <h3>ACER PREDATOR HELIOS 300 PH315-5254KC</h3>
             <h4>₱64,499</h4>
         </section>
+    </div>
+    <div class="product_title">
+        <h2>Playstation</h2>
     </div>
     <div class="item">
         <img src="Images/ps4_1.jpg" alt="ps4_1_images">
@@ -44,6 +50,9 @@
             <h4>₱17,990</h4>
         </section>
     </div>
+    <div class="product_title">
+        <h2>Xbox</h2>
+    </div>
     <div class="item">
         <img src="Images/xbox_1.png" alt="xbox_1_images">
         <section class="item_np">
@@ -64,6 +73,9 @@
             <h3>XBOX ONE 1 TB SSD ELITE</h3>
             <h4>₱13,995</h4>
         </section>
+    </div>
+    <div class="product_title">
+        <h2>Nintendo</h2>
     </div>
     <div class="item">
         <img src="Images/nintendo_1.jpg" alt="nintendo_1_images">
@@ -86,6 +98,9 @@
             <h4>₱21,600</h4>
         </section>
     </div>
+    <div class="product_title">
+        <h2>PC Games</h2>
+    </div>
     <div class="item">
         <img src="Images/games_1.jpg" alt="games_1_images">
         <section class="item_np">
@@ -106,6 +121,9 @@
             <h3>WORLD OF WARCRAFT SHADOWLANDS EPIC EDITION</h3>
             <h4>₱7,995</h4>
         </section>
+    </div>
+    <div class="product_title">
+        <h2>Gaming Peripherals</h2>
     </div>
     <div class="item">
         <img src="Images/peripherals_1.jpg" alt="peripherals_1_images">

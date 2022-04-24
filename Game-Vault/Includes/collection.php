@@ -41,4 +41,11 @@
             <p>View Products</p>
         </section>
     </div>
+    <div class="category6">
+        <img src="Images/pc_peripherals_bg.jpg" alt="pc_peripherals_bg_images">
+        <section>
+            <h2>Gaming Peripherals</h2>
+            <p>View Products</p>
+        </section>
+    </div>
 </div>
